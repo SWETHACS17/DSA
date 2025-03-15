@@ -1,4 +1,4 @@
-# Inventory Management System
+# Supply Chain Management System
 
 This is a Python-based **Inventory Management System** that allows you to manage products, orders, deliveries, and suppliers through a user-friendly console interface. The system is designed to handle inventory tracking, order processing, demand forecasting, and supplier network management.
 
