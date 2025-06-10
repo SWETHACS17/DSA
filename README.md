@@ -47,4 +47,4 @@ Contributions are welcome! Feel free to submit a pull request or create an issue
 Thanks to everyone who contributed to this project! 😎
 
 ---
-Let me know if you want to modify any part! 😎
+Let me know if you want to modify any part in this! 😎
